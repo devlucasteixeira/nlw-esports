@@ -8,4 +8,6 @@ It is an application for people to find other players of certain games, and to h
 
 To download the project's dependencies use the command <strong>'npm install' </strong> <br>
 
-[Imgur](https://i.imgur.com/yk1HPna.png)
+<h2>Screenshots</h2>
+
+<img src="https://i.imgur.com/yk1HPna.png" alt="Aplication Web">
