@@ -1,4 +1,4 @@
-This project was developed on the NLW eSports ingnite track.
+<h1>This project was developed on the NLW eSports ingnite track. </h1>
 
 It is an application for people to find other players of certain games, and to have a contact via discord so that they can communicate and be able to play your game together.
 
